@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Daniel Alvarez
+# I'm Daniel Alvarez
 
 🎨 I'm an **Interactive Media Design student** at Algonquin College with a foundation in systems and programming. Passionate about user-centered digital experiences and always eager to learn and grow in the media and design industry.
 
